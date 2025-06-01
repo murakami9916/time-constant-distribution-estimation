@@ -33,17 +33,18 @@ $$
 
 負の対数尤度の密度分布
 
-![image](https://github.com/user-attachments/assets/404f2fd1-821e-4647-a089-ae872837fb03)
+![image](https://github.com/user-attachments/assets/58c8b141-87b8-45b9-bab8-53414f5e38d1)
 
 時定数分布のMAP解
 
-![image](https://github.com/user-attachments/assets/ceadedba-8f1e-41ff-802e-8a06b5b9be0d)
+![image](https://github.com/user-attachments/assets/d529fd2f-06b1-4503-9e06-9aca5baba5d8)
 
 事後分布: $`\mu_1`$ vs $`\mu_2`$
 
-![image](https://github.com/user-attachments/assets/5cb60115-f174-4ff7-b37c-775b7d90c9b3)
+![image](https://github.com/user-attachments/assets/04444ced-7aac-4abd-913b-41cb81869828)
 
 事後分布: $`b`$ vs $`\mu_1`$, $`\mu_2`$
 
-![image](https://github.com/user-attachments/assets/2d47d496-45c1-49f2-8091-138115a7c727)
+![image](https://github.com/user-attachments/assets/ee01de03-d304-4710-9d3a-4e41007d8786)
+
 
