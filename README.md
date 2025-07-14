@@ -49,9 +49,14 @@ $$
 
 ![image](https://github.com/user-attachments/assets/58c8b141-87b8-45b9-bab8-53414f5e38d1)
 
-時定数分布のMAP解
+時定数分布のMAP解  $`\phi(\tau; \theta_{MAP})`$
 
 ![image](https://github.com/user-attachments/assets/d529fd2f-06b1-4503-9e06-9aca5baba5d8)
+
+ベイズ平均した時定数分布  $`\phi(\tau; \theta_i) = \frac{1}{L} \sum_{i=1}^{L}{\phi(\tau; \theta_i)}`$
+
+![image](https://github.com/user-attachments/assets/7e8941f9-bbda-460b-95e6-253f4cce061a)
+
 
 事後分布: $`\mu_1`$ vs $`\mu_2`$
 
